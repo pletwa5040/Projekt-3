@@ -1,0 +1,13 @@
+D:/2 sem/Programowanie/Projekt-3/build/CMakeFiles/projekt3.dir
+D:/2 sem/Programowanie/Projekt-3/build/CMakeFiles/INSTALL.dir
+D:/2 sem/Programowanie/Projekt-3/build/CMakeFiles/ALL_BUILD.dir
+D:/2 sem/Programowanie/Projekt-3/build/CMakeFiles/ZERO_CHECK.dir
+D:/2 sem/Programowanie/Projekt-3/build/pybind11/CMakeFiles/INSTALL.dir
+D:/2 sem/Programowanie/Projekt-3/build/pybind11/CMakeFiles/ALL_BUILD.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/CMakeFiles/INSTALL.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/CMakeFiles/ALL_BUILD.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/source/CMakeFiles/INSTALL.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/source/3rd_party/CMakeFiles/nodesoup.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/source/3rd_party/CMakeFiles/INSTALL.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/source/matplot/CMakeFiles/matplot.dir
+D:/2 sem/Programowanie/Projekt-3/build/matplotplusplus/source/matplot/CMakeFiles/INSTALL.dir
